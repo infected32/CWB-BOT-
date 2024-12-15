@@ -32,7 +32,7 @@ prizes = [
     {"name": "VIP", "image": "https://i.postimg.cc/P537gpF5/pngtree-vip-3d-golden-word-element-png-image-240239.png", "chance": 0.01, "description": "Status VIP, benefícios exclusivos!"},
     {"name": "GIROCÓPTERO", "image": "https://i.postimg.cc/fR84MgkZ/Gyrocopter-Placeable.webp", "chance": 0.5, "description": "Girocóptero para viagens aéreas seguras."},
     {"name": "MOTO", "image": "https://i.postimg.cc/9f060tq9/Motorcycle-Placeable.webp", "chance": 1, "description": "Uma moto resistente para terrenos hostis."},
-    {"name": "SEM SORTE", "image": "https://i.postimg.cc/Y0KZd5DN/DALL-E-2024-11-21-15-18-18-The-same-post-apocalyptic-supply-crate-marked-with-CWB-now-open-reve.webp", "chance": 95, "description": "A sorte não está do seu lado hoje."},
+    {"name": "SEM SORTE", "image": "https://i.postimg.cc/Y0KZd5DN/DALL-E-2024-11-21-15-18-18-The-same-post-apocalyptic-supply-crate-marked-with-CWB-now-open-reve.webp", "chance": 94,89, "description": "A sorte não está do seu lado hoje."},
     {"name": "CWB Coin", "image": "https://imgur.com/n4dqi3d.png", "chance": 0.5, "description": "CWB Coin, troque por vantagens raras."},
     {"name": "Eraser T5", "image": "https://imgur.com/n4dqi3d.png", "chance": 0.3, "description": "Eraser T5, arma potente para apagar ameaças."},
     {"name": "BullDog T5", "image": "https://imgur.com/n4dqi3d.png", "chance": 0.3, "description": "BullDog T5, espingarda implacável."},
