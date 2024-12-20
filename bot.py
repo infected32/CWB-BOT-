@@ -37,7 +37,7 @@ prizes = [
     {"name": "Pack 5k Munição 9mm Urânio", "image": "https://imgur.com/n4dqi3d.png", "chance": 0.5, "description": "5k munição 9mm urânio, poder de fogo intenso."},
     {"name": "Pack 5k Munição 762mm Urânio", "image": "https://imgur.com/n4dqi3d.png", "chance": 0.5, "description": "5k munição 7.62mm urânio, destruição garantida."},
     {"name": "Pack 5k Munição Shot Urânio", "image": "https://imgur.com/n4dqi3d.png", "chance": 0.5, "description": "5k munição Shot urânio, impacto devastador."}
-    {"name": "Pack 5k Munição 9mm", "image": "https://imgur.com/n4dqi3d.png", "chance": 0.49, "description": "5k munição 9mm urânio, poder de fogo intenso."},
+    {"name": "Pack 5k Munição 9mm", "image": "https://imgur.com/n4dqi3d.png", "chance": 0.49, "description": "5k munição 9mm."},
 ]
 
 mensagens_sem_sorte = [
